@@ -1,0 +1,15 @@
+{
+  "name": "Chainlink-Prediction-Sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private":true,
+  "repository": "https://github.com/mashharuki/Chainlink-Prediction-Sample.git",
+  "author": "mashharuki",
+  "license": "MIT",
+  "workspaces": [
+    "pkgs/**"
+  ],
+  "scripts": {
+
+  }
+}
