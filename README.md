@@ -54,3 +54,8 @@ ChainlinkAutomationとChainlink Functionを利用したバスケットボール�
 ### 参考文献
 1. [API Sports document](https://api-sports.io/documentation/nba/v2)
 2. [API Sports](https://api-sports.io/)
+3. [Case Study: Chainlink Sports Prediction App](https://hack.bg/case-studies/case-study-chainlink-sports-prediction-app)
+4. [GitHub - prediction-game](https://github.com/hackbg/prediction-game)
+5. [Chainlink functions Info - Arbitrum Sepolia Testnet](https://docs.chain.link/chainlink-functions/supported-networks#arbitrum-sepolia-testnet)
+6. [Chainlink - Hackathon Resources](https://docs.chain.link/resources/hackathon-resources?parent=chainlinkFunctions)
+7. [Chainlink - hardhat-starter-kit](https://github.com/smartcontractkit/hardhat-starter-kit/tree/typescript)
